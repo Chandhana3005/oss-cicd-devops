@@ -9,9 +9,9 @@ trigger:
 variables:
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'azure VM'
   demorg: 'melon-cicd-rg'
-  subscription : 'melonserviceconn'
+  subscription : 'Azure subscription 1'
   webappname : 'melonbetawebapp'
   prodwebappname : 'melonbetawebapp-prod'
 
